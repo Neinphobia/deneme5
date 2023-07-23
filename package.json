@@ -1,0 +1,17 @@
+{
+  "name": "tayfun-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type":"commonjs",
+  "scripts": {
+    "dev":"nodemon app",
+    "start":"node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
