@@ -4,4 +4,6 @@ console.log(sonuc);
 console.log(degisken);
 
 powerAl(2, 6);
+//safdasdf
 //git yorumu
+console.log("hi");
